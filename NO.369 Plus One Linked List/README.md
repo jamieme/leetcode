@@ -1,4 +1,5 @@
-#leetcode NO.369 - Plus One Linked List
+# leetcode NO.369 - Plus One Linked List
+
 Problem:
 Given a non-negative number represented as a singly linked list of digits, plus one to the number.
 
@@ -10,3 +11,10 @@ Input:
 Output:
 1->2->4
 
+SolutionA:
+
+#### 1. reverse the list
+
+#### 2. add 1 from head to tail
+
+#### 3. reverse the processed list again
